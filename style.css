@@ -1,8 +1,8 @@
-.kontener{
+.kontakty{
 
-    padding-right: 1450px;
-    padding-left: 50px;
-    border-width:5px;
+    padding-right: 75%;
+    padding-left: 2.5%;
+    border-width: 5%;
     border-right-style:solid;
 }
 
@@ -12,3 +12,5 @@
 .button{
     padding-top: 15px;
 }
+
+
